@@ -20,7 +20,7 @@ Esse projeto consiste em desenvolver uma solução de busca para o ambiente de j
 
 O ambiente é impresso na tela a cada movimento do agente, no final é impresso a pontuação final e o caminho percorrido. 
 
-**Como iniciar o jogo:** Passar as posições dos elementos para o predicado iniciar. Por exemplo: 
+**Como iniciar o jogo:** Passar as posições dos elementos para o predicado iniciar na seguinte ordem: Agente, Coracoes, Elevadores, Garrafas, Espinafre, Brutu. Por exemplo: 
 ```prolog 
 iniciar([[4,0]],[[0,2],[1,0],[2,4],[3,9]],[[1,3],[2,5],[3,2],[4,1]],[[0,1],[0,5],[1,8],[2,1],[4,4],[4,5]],[[2,7]],[[0,9]]).
 ``` 

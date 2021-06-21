@@ -11,7 +11,7 @@ Esse projeto consiste em desenvolver uma solução de busca para o ambiente de j
 - Escadas com obstáculos (garrafa ou brutus) no início ou no final não podem ser utilizadas.
 
 **Pontuação:**
-Definida ao coletar um coração, cada coração vale (500 - (Linha * 100 )).
+- Definida ao coletar um coração, cada coração vale (500 - (Linha * 100 )).
 	
 **Objetivos do agente:**
 1. Coletar todos os corações
